@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Do not Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
             className="App-link"
@@ -21,11 +21,14 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn to React ...
+            Learn to React to the ...
           </a>
         </header>
+        <div><img src="./images/mirror.jpg" className="App-logo" alt="logo" /></div>
       </div>
+      
     );
+    
   }
 }
 
