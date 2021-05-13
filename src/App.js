@@ -23,7 +23,7 @@ class App extends Component {
           >
             Learn to React to the ...
           </a>
-          <div><img src="./images/mirror.jpg" className="App-logo" alt="logo" /></div>
+          <div><img src="./images/mirror.jpg"  alt="logo" /></div>
         </header>
         
       </div>
